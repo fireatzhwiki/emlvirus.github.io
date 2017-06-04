@@ -2,7 +2,7 @@
 
 ## Rianmeter基础版教程
 
-![](/82c5b5a7gw1ei04sza147j206z02s0t2.jpg)
+<p align="center"> <img src="/images/82c5b5a7gw1ei04sza147j206z02s0t2.jpg"/> </p>
 
 本教程适用环境
 
