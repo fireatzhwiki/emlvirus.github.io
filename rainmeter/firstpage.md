@@ -105,3 +105,14 @@ Rainmeter皮肤右键菜单中包含的操作见下：
 简单逻辑问题，想不懂我还能说啥？
 
 Rainmeter菜单提供一些全局选项，等效于管理器窗口操作
+
+<h2 align="center">Skin Websites 皮肤网站</h2>
+
+几个找皮肤的网站，按资源数量排序，由多到少分别是
+
+1. Deviant Art（本人搬运皮肤主要去处）
+2. [官方论坛](/ https://forum.rainmeter.net/)
+3. 雨滴中国论坛（需注册 淘宝买邀请码）
+4. [customize.org](http://customize.org/rainmeter)
+5. 百度贴吧
+6. Github
