@@ -111,8 +111,136 @@ Rainmeter菜单提供一些全局选项，等效于管理器窗口操作
 几个找皮肤的网站，按资源数量排序，由多到少分别是
 
 1. Deviant Art（本人搬运皮肤主要去处）
-2. [官方论坛](/ https://forum.rainmeter.net/)
+2. [官方论坛](https://forum.rainmeter.net)
 3. 雨滴中国论坛（需注册 淘宝买邀请码）
 4. [customize.org](http://customize.org/rainmeter)
 5. 百度贴吧
 6. Github
+
+<h2 align="center">Edit Skins 编辑参数</h2>
+
+不管编辑什么，请使用英文标点（半角字符），**修改后均需要刷新才生效**
+
+#### 修改皮肤变量
+
+##### 首先你必须知道这个皮肤（系列）是否有公用变量库文件
+
+右键单击皮肤，点击 编辑皮肤 ，如果你看到了以下代码或者类似的变量引用代码，则说明存在公用变量文件：
+
+`@include=\#@\#Variables.inc`
+
+`@IncludeVars="\#@\#Settings.txt"`
+
+公用变量文件即为代码最后的文件名，修改皮肤变量时必须找到这一文件，这一文件位于你的皮肤安装目录的对应皮肤文件夹的根目录下：在Rainmeter管理视窗中右键皮肤文件，点击 打开皮肤目录即可 （如下图）
+![](images/4.png)
+
+若你没有看到相关代码（即确定该皮肤（系列）未使用公用变量库文件），那么直接右键皮肤，选择 编辑，修改打开的ini文件即可
+
+#### 编辑dock类皮肤
+
+Dock类皮肤类似于快捷方式，可以快速访问指定文件或文件夹
+
+编辑此类皮肤参数时只需要编辑名称路径即可
+
+名称修改Name等号后面的字符即可（有时带引号，先看皮肤情况即可）
+
+路径修改Path等号后面的路径即可（一定不要带引号）
+
+注意从快捷方式找程序路径时不要带双引号，注意复制目标不是起始位置
+
+这两个变量总是成对出现，请注意对应
+
+有些旧皮肤以`LeftMouseUpAction=!Execute[" "]`这句代码作为Path路径表示，两个引号的中间部分就是应该修改替换路径的地方
+
+例如
+
+![](images/5.png)
+
+此外有些皮肤没有名称，此类皮肤修改路径即可（使用前请思考之后会不会忘记每个dock对应的是什么 ~~忘记了怪我咯~~）
+
+#### 此处给出一些比较便捷的路径，复制粘贴到`Path`等号后即可
+
+`::{20D04FE0-3AEA-1069-A2D8-08002B30309D} 我的电脑
+
+%WINDIR%\system32\control.exe控制面板
+
+::{992CFFA0-F557-101A-88EC-00DD010CCC48} 拨号网络
+
+%WINDIR%\System32\ncpa.cpl 查看网络连接
+
+::{208D2C60-3AEA-1069-A2D7-08002B30309D} 网上邻居
+
+::{645FF040-5081-101B-9F08-00AA002F954E} 回收站
+
+::{450D8FBA-AD25-11D0-98A8-0800361B1103} 我的文档
+
+关机 %windir%\System32\shutdown -s
+
+重启 %windir%\System32\shutdown -r
+
+注销 %windir%\System32\shutdown -l`
+
+#### 编辑播放器
+
+编辑播放器需要修改播放器皮肤中的播放名与播放器主程序路径即可
+
+播放器主程序路径从快捷方式中找到注意复制目标不是起始位置
+
+有些皮肤不需要指定播放器路径
+
+修改名称时修改`PlayerName`后字符即可，名称见下：
+
+AIMP写为： AIMP
+
+foobar2000写为：CAD
+
+iTunes写为：iTunes
+
+Winamp写为：winamp
+
+Windows Media Player写为：WMP
+
+其它写为：WLM
+
+国外播放器都支持专辑封面、歌曲评级、歌曲进度、歌曲时长。
+
+国产播放器因为没有支持的接口，所以只能控制暂停播放及上曲、下曲。
+
+#### 编辑相册
+
+找到`Picture`或者`PathName`，替换等号后路径即可；如希望显示单一图片则输入带图片文件名的路径即可
+
+#### 编辑天气
+
+此处不作多讲，搜索出对应天气网站，查找你的城市，然后找到网址中类似代码替换即可。有些新皮肤会自动查找定位。
+
+皮肤提供者均会说明皮肤网站类型 ~~不知道怪我咯~~
+
+注意：
+
+### 最近weather.com跟Yahoo weather更新了网站数据API
+
+如有这两种天气皮肤失效的尝试如下解决办法：
+
+weather.com
+
+找到皮肤INI的URL 例如
+URL=[http://xml.weather.com/weather/local/\#Location\#?cc=\*&unit=\#Unit\#&dayf=1](http://xml.weather.com/weather/local/#Location#?cc=*&unit=#Unit#&dayf=1)
+
+将[http://xml.weather.com/weather/local/](http://xml.weather.com/weather/local/) 替换为
+[http://wxdata.weather.com/wxdata/weather/local/](http://wxdata.weather.com/wxdata/weather/local/)
+
+Yahoo weather
+
+找到皮肤INI的URL 例如
+
+URL=[http://weather.yahooapis.com/forecastrss?](http://weather.yahooapis.com/forecastrss?)
+w=\#LocationCode\#&u=\#Unit\#
+将[http://weather.yahooapis.com/](http://weather.yahooapis.com/) 替换为
+[http://xml.weather.yahoo.com/](http://xml.weather.yahoo.com/)
+
+#### 中国天气网
+
+由于中国天气网weather.com.cn已关闭数据接口 因此遇到此网站天气皮肤请直接删除
+
+另外请将其与weather.com（仍然正常）相区别
