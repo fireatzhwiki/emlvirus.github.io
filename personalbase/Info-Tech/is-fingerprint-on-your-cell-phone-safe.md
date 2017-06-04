@@ -23,4 +23,4 @@ Here are two mainstream types of fingerprint technology:
 
 On the very most devices there is `physical fingerprint` used instead of `biology fingerprint` becasue of cost of money.
 
-###### [啊啦 乃手滑了](..\homepage.html)
+###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
