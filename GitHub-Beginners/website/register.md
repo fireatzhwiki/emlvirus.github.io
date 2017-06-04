@@ -8,7 +8,7 @@ Despite of downloading releases and source code packs, the premise to use GitHub
 
 ---
 
-在未登录前的主页中点击![](images/signup.png)或右上角![](images/signup2.png)即可注册。
+在未登录前的主页中点击 ![](..\images/signup.png) 或右上角 ![](..\images/signup2.png) 即可注册。
 
 Click sign up to continue.
 
