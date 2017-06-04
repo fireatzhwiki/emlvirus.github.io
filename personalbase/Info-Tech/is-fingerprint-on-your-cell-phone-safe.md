@@ -1,5 +1,7 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
+## Is Fingerprint On Your Cellphone Safe?
+
 All cell phones manufactured in recent years are basically equipped with fingerprint device. The point is, does it **ACTUALLY** safe?
 
 For **most of time**, unfortunately, **NO**.
@@ -20,3 +22,5 @@ Here are two mainstream types of fingerprint technology:
     * very unlikely to be copied by usual devices
 
 On the very most devices there is `physical fingerprint` used instead of `biology fingerprint` becasue of cost of money.
+
+###### [啊啦 乃手滑了](..\homepage.html)
