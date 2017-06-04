@@ -7,4 +7,4 @@
 
 ### 好孩子不会去看的内容
 
-* [个人知识库](/personalbase.md)
+* [个人知识库](/personalbase/homepage.md)
