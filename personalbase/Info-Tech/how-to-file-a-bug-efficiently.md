@@ -13,4 +13,4 @@ Here is a qucik guide about what kinds of info you need to provide.
 * Expected Result: things you hope to see or final state the program should be, aka goals for developers.
 * Actual Result: current behavior of the program.
 
-###### [啊啦 乃手滑了](..\homepage.html)
+###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
