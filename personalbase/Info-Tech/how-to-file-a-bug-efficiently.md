@@ -1,5 +1,7 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
+## How To File A Bug Efficiently?
+
 If any bug or feature request is filed in a self-evident way, developers will handle it much more efficiently.
 Here is a qucik guide about what kinds of info you need to provide.
 
@@ -10,3 +12,5 @@ Here is a qucik guide about what kinds of info you need to provide.
 * STR (Step To Reproduce): detailed step to descibe the bug or expected behavior of a feature request
 * Expected Result: things you hope to see or final state the program should be, aka goals for developers.
 * Actual Result: current behavior of the program.
+
+###### [啊啦 乃手滑了](..\homepage.html)
