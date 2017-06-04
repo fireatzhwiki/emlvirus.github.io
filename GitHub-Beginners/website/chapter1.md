@@ -13,9 +13,9 @@ Here introduces UI on GitHub and how it works.
 ## 登陆后主页 UI
 ## Here is Homepage UI after login
 
-![](./images/2017-02-18_16-50-13.png)
+![](..\images/2017-02-18_16-50-13.png)
 
-###### 请注意：顶部导航栏部分已被GitHub默认修改为黑色（如下图），如需达到截图中的白色效果请参考[这一CSS脚本](https://userstyles.org/styles/138766/github-return-light-themed-header)效果. 如不清楚如何使用，参考[这里](https://userstyles.org/help/stylish)。![](/assets/import3.png)Note: The top header is set to black by default \(as screenshot above\), refer [this CSS script](https://userstyles.org/styles/138766/github-return-light-themed-header) if white one requied as the sreenshot above. Click [here](https://userstyles.org/help/stylish) if you don't know how to apply with it.
+###### 请注意：顶部导航栏部分已被GitHub默认修改为黑色（如下图），如需达到截图中的白色效果请参考[这一CSS脚本](https://userstyles.org/styles/138766/github-return-light-themed-header)效果. 如不清楚如何使用，参考[这里](https://userstyles.org/help/stylish)。![](..\images/import3.png)Note: The top header is set to black by default (as screenshot above), refer [this CSS script](https://userstyles.org/styles/138766/github-return-light-themed-header) if white one requied as the sreenshot above. Click [here](https://userstyles.org/help/stylish) if you don't know how to apply with it.
 
 1 主页按钮：点击返回 GitHub 主页 Home page button: click to return home page
 
@@ -65,7 +65,6 @@ If you `watch`a repo or `follow`a user, copy link from `Subscribe to your news f
 
 ---
 
-## 项目主页 UI
 ## Repository UI
 
 ![](./assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name
