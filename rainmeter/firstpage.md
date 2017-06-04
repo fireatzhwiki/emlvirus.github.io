@@ -160,25 +160,25 @@ Dock类皮肤类似于快捷方式，可以快速访问指定文件或文件夹
 
 #### 此处给出一些比较便捷的路径，复制粘贴到`Path`等号后即可
 
-`::{20D04FE0-3AEA-1069-A2D8-08002B30309D} 我的电脑
+`::{20D04FE0-3AEA-1069-A2D8-08002B30309D}` 我的电脑
 
-%WINDIR%\system32\control.exe控制面板
+`%WINDIR%\system32\control.exe` 控制面板
 
-::{992CFFA0-F557-101A-88EC-00DD010CCC48} 拨号网络
+`::{992CFFA0-F557-101A-88EC-00DD010CCC48}` 拨号网络
 
-%WINDIR%\System32\ncpa.cpl 查看网络连接
+`%WINDIR%\System32\ncpa.cpl` 查看网络连接
 
-::{208D2C60-3AEA-1069-A2D7-08002B30309D} 网上邻居
+`::{208D2C60-3AEA-1069-A2D7-08002B30309D}` 网上邻居
 
-::{645FF040-5081-101B-9F08-00AA002F954E} 回收站
+`::{645FF040-5081-101B-9F08-00AA002F954E}` 回收站
 
-::{450D8FBA-AD25-11D0-98A8-0800361B1103} 我的文档
+`::{450D8FBA-AD25-11D0-98A8-0800361B1103}` 我的文档
 
-关机 %windir%\System32\shutdown -s
+关机 `%windir%\System32\shutdown -s`
 
-重启 %windir%\System32\shutdown -r
+重启 `%windir%\System32\shutdown -r`
 
-注销 %windir%\System32\shutdown -l`
+注销 `%windir%\System32\shutdown -l`
 
 #### 编辑播放器
 
@@ -225,19 +225,18 @@ Windows Media Player写为：WMP
 weather.com
 
 找到皮肤INI的URL 例如
-URL=[http://xml.weather.com/weather/local/\#Location\#?cc=\*&unit=\#Unit\#&dayf=1](http://xml.weather.com/weather/local/#Location#?cc=*&unit=#Unit#&dayf=1)
 
-将[http://xml.weather.com/weather/local/](http://xml.weather.com/weather/local/) 替换为
-[http://wxdata.weather.com/wxdata/weather/local/](http://wxdata.weather.com/wxdata/weather/local/)
+`URL=http://xml.weather.com/weather/local/\#Location\#?cc=\*&unit=\#Unit\#&dayf=1`
+
+将 `http://xml.weather.com/weather/local` 替换为 `http://wxdata.weather.com/wxdata/weather/local`
 
 Yahoo weather
 
 找到皮肤INI的URL 例如
 
-URL=[http://weather.yahooapis.com/forecastrss?](http://weather.yahooapis.com/forecastrss?)
-w=\#LocationCode\#&u=\#Unit\#
-将[http://weather.yahooapis.com/](http://weather.yahooapis.com/) 替换为
-[http://xml.weather.yahoo.com/](http://xml.weather.yahoo.com/)
+`URL=http://weather.yahooapis.com/forecastrss?w=\#LocationCode\#&u=\#Unit\#`
+
+将 `http://weather.yahooapis.com` 替换为 `http://xml.weather.yahoo.com`
 
 #### 中国天气网
 
