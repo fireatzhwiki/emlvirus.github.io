@@ -26,7 +26,7 @@ wait until finished (please notice difference about repo name between two sreens
 
 此例中，选择 Zh-CN.xml ，点击即可查看源码（如下图红框） In this case, select Zh-CN.xml (as the red box below)
 
-![](..\images/select file.png)进入源代码后点击 ![](/assets/edit file.png) 即可开始编辑源代码（如下图）
+![](..\images/select file.png)进入源代码后点击 ![](..\images/edit file.png) 即可开始编辑源代码（如下图）
 
 click ![](..\images/edit file.png)to start editing source code (as screenshot below)
 
