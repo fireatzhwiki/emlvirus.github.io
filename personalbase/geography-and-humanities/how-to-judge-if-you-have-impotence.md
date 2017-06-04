@@ -1,6 +1,6 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
-### How To Judge If You Have Impotence
+## How To Judge If You Have Impotence
 
 Usually you may encounter three level of impotence. Each level means a degree of congestion when it is fully erect:
 
@@ -26,4 +26,4 @@ Usually you may encounter three level of impotence. Each level means a degree of
 All discussions above are based on the occasion that the lesion is loacted at your corpus cavernosum instead of blood pipes.
 * If lesion is loacted at blood pipes, this kind of impotence will be quite easy to be cured.
 
-###### [啊啦 乃手滑了](..\homepage.md)
+###### [啊啦 乃手滑了](..\homepage.html)
