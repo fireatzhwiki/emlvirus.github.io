@@ -1,5 +1,7 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
+## Why Is A Diamond Costly?
+
 You should have witness the price tag on a 💎. The point is why it is costing an unblievable number of 💰?
 
 ## Relevant Concepts
@@ -42,3 +44,5 @@ The reason that make a 💎 costing unbelievale amount of 💰:
 1. great market `demand`
 2. hardness for manufacture 💎 for jewelry from a raw stone
 3. (the very critical one) productivity control from manufacurers
+
+###### [啊啦 乃手滑了](..\homepage.html)
