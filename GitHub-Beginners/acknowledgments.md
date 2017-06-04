@@ -1,6 +1,6 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
-## ![](..\images/logo.png) 鸣谢 Acknowledgment
+## ![](images/logo.png) 鸣谢 Acknowledgment
 
 ---
 
