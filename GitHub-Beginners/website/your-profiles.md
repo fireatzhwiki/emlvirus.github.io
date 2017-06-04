@@ -25,3 +25,5 @@
 4 页面切换按钮，快速切换到分类详情显示：项目详情 `Repositories` 、收藏项目 `Stars` 、关注你的人 `Followers` 、你关注你的人 `Following` 。 `Repositories` 与 `Stars` 页面提供切换排列方式的按钮。
 
 在 `Following`、`Followers` 列表中点击 `Unfollow` 按钮均只会 **取消你对ta的关注** 。
+
+###### [啊啦 乃手滑了](..\index.html#table-of-contents)
