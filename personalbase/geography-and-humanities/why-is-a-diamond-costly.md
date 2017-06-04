@@ -45,4 +45,4 @@ The reason that make a 💎 costing unbelievale amount of 💰:
 2. hardness for manufacture 💎 for jewelry from a raw stone
 3. (the very critical one) productivity control from manufacurers
 
-###### [啊啦 乃手滑了](..\homepage.html)
+###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
