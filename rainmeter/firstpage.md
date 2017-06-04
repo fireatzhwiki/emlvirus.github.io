@@ -55,7 +55,7 @@ A3：Windows 7及更新 不支持XP 不支持XP 不支持XP
 
 主题layout：当前的皮肤激活情况、皮肤布局（可以包括壁纸）的组合方案
 
-<h2 align="center">安装皮肤</h2>
+<h2 align="center">Install Skins安装皮肤</h2>
 
 在软件初次安装时会连带安装激活一些内置皮肤（仅英文），如不需要右键关闭即可
 
