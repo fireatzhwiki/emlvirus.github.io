@@ -60,13 +60,13 @@ There is a myth that GitHub is for programmers only but it is not. It is also ex
 
 #### 使用Github客户端
 
-* [使用VS Studio内的Github客户端](VisualStudio/README.md)
-* [使用VisualStudio内置的Github客户端克隆代码](./VisualStudio/section-1-clone_repository.md)
-* [使用VisualStudio进行repository的修改的commit以及同步操作](./VisualStudio/section-2-commit-and-sync.md)
-* [如何使用VisualStudio解决团队开发过程之中的commit冲突](./VisualStudio/section-4-solving-the-conflicts.md)
-* [使用GitHub for Desktop](github-desktop.md)
-* [使用GitHub for Windows](github-desktop/github-for-windows.md)
-* [使用GitHub for Mac](github-desktop/github-for-mac.md)
+* [使用VS Studio内的Github客户端](client/README.md)
+* [使用VisualStudio内置的Github客户端克隆代码](client/section-1-clone_repository.md)
+* [使用VisualStudio进行repository的修改的commit以及同步操作](client/section-2-commit-and-sync.md)
+* [如何使用VisualStudio解决团队开发过程之中的commit冲突](client/section-4-solving-the-conflicts.md)
+* [使用GitHub for Desktop](client/github-desktop.md)
+* [使用GitHub for Windows](client/github-desktop/github-for-windows.md)
+* [使用GitHub for Mac](client/github-desktop/github-for-mac.md)
 
 #### 附录
 
