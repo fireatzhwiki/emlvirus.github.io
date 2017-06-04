@@ -1,5 +1,7 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
+## How To Use A Condom Correctly
+
 Before you read any content below, there is a fact you need to keep in mind all the time:
 
 > a condom **CAN NOT** garante you contraception for 100 percent
@@ -22,3 +24,6 @@ Here are things you need to notice to use a condom:
 NOTE: you can **NEVER** expect a 100-percent way to contraception by now.
 
 Plus, I strongly recommend a condom (male or female) raher than contraceptives as the latter can be a real damage to female reproduction system.
+
+
+###### [啊啦 乃手滑了](..\homepage.html)
