@@ -13,7 +13,7 @@
 
 这里当然不是去选择 **Abort** 放弃操作，而是点击 **Conflicts: 1** 链接在 Visual Studio 之中进行代码合并冲突的解决操作。在这里我们点击 **Conflicts: 1** 进入下一步。
 
-![](./images/s4/conflicts-details.png)
+![](..\images/s4/conflicts-details.png)
 
 进入到 `Resolve Conflicts` 页面之后，我们就可以更加清楚的了解到合并冲突的详细信息了，例如从上面我们可以非常清楚的了解到合并冲突来自于一份文件名为 `README.md` 的文档。在这里，对于每一份提示有冲突的文档我们都有三个选项：
 
