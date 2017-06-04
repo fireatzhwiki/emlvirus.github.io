@@ -8,8 +8,6 @@
 
 请注意：只有人人均可熟练掌握的知识才会被列入本项目。
 
-###### 更多细节参阅[此处](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)；点击[此处](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/介绍文档)查看介绍文档
-
 另外感谢以下私人博客的合作（无排序）
 
 1. [零散坑专访](https://03k.org/github-guide.html)
@@ -24,8 +22,6 @@ This document is about to introducing how the beginners get started with GitHub.
 
 Note that only basic knowledge that everyone can learn through will be intoduced here.
 
-###### Click [here ](https://github.com/EMLVIRUS/GitHub-Beginners/issues/1)for more info and [here](https://github.com/EMLVIRUS/GitHub-Beginners/wiki/介绍文档) for wiki
-
 Also grateful to the following private blogs:
 
 1. [03k.org](https://03k.org/github-guide.html)
@@ -38,15 +34,15 @@ Also grateful to the following private blogs:
 
 #### 使用Github网站
 
-* [注册账户register](register.md)
-* [UI简介](chapter1.md)
-* [完善账户信息 Settings](settings.md)
-* [账户详情Your profiles](your-profiles.md)
-* [通知中心noticifications](noticifications.md)
-* [评论输入框comment](comment.md)
-* [尝试贡献Try pull request](try-pull-request.md)
-* [创建个人项目Create Repo](create-repo.md)
-* [管理个人项目Repo Management](repo-management.md)
+* [注册账户 Register](website/register.md)
+* [UI简介](website/chapter1.md)
+* [完善账户信息 Settings](website/settings.md)
+* [账户详情 Your profiles](website/your-profiles.md)
+* [通知中心 Noticifications](website/noticifications.md)
+* [评论输入框 Comment](website/comment.md)
+* [尝试贡献 Try pull request](website/try-pull-request.md)
+* [创建个人项目 Create Repo](website/create-repo.md)
+* [管理个人项目 Repo Management](website/repo-management.md)
 
 #### 使用Github客户端
 
