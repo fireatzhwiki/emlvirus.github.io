@@ -2,6 +2,8 @@
 
 ## Rianmeter基础版教程
 
+![](/82c5b5a7gw1ei04sza147j206z02s0t2.jpg)
+
 本教程适用环境
 
 OS Windows 7/8.1/10
