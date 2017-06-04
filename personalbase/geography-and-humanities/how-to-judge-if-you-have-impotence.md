@@ -24,4 +24,4 @@ Usually you may encounter three level of impotence. Each level means a degree of
 All discussions above are based on the occasion that the lesion is loacted at your corpus cavernosum instead of blood pipes.
 * If lesion is loacted at blood pipes, this kind of impotence will be quite easy to be cured.
 
-###### [啊啦 乃手滑了](.../)｜[好浓烈的求知欲呢(oﾟvﾟ)ノ](https://emlvirus.github.io/personalbase/homepage.html)
+###### [啊啦 乃手滑了](..\)｜[好浓烈的求知欲呢(oﾟvﾟ)ノ](https://emlvirus.github.io/personalbase/homepage.html)
