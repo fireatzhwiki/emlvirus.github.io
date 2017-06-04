@@ -67,7 +67,9 @@ If you `watch`a repo or `follow`a user, copy link from `Subscribe to your news f
 
 ## Repository UI
 
-![](./assets/firefox_2017-02-18_18-42-27.png)①项目所有人跟标题 repo owner and name
+![](..\images/firefox_2017-02-18_18-42-27.png)
+
+①项目所有人跟标题 repo owner and name
 
 2 代码详情（此页为项目主页）code details (also repo home page)
 
