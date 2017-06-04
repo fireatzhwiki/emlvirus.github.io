@@ -11,8 +11,8 @@
 
 There are two ways to create a new `repository`, after login:
 
-1. click ![](/assets/new repo.png) in [home page UI](/chapter1.md)
-2. click triangle at right top next to the plus ![](/assets/plus.png)and hint `New repository`
+1. click ![](..\images/new repo.png) in [home page UI](/chapter1.md)
+2. click triangle at right top next to the plus ![](..\images/plus.png) and hint `New repository`
 
 之后填写项目项目信息，如下图 Add more repo info then as below
 
