@@ -5,12 +5,16 @@
 * 这些辣鸡内容带有剧毒☠，阅读过多可能导致当事人不省人事，或是从此改行直播女装
 * 如果要开🍴，请务必遵循 Markdown 科学语法，否则会导致某些科学无法解释的现象
 
-## 哪家的调皮孩子😜居然看这些
-
-* [Amazing Apps](http://amazingapps.org)
-
 ## 好孩子不会去看的内容
 
 * [个人知识库](/personalbase/homepage.md)
 
+## 哪家的调皮孩子😜居然看这些
+
+* [Amazing Apps](http://amazingapps.org)
+
 ## 啊♂基情在燃烧🔥
+
+☎[Telegram](https://t.me/EMLVIRUS)✉[Outlook](mailto:EMLVIRUS@outlook.com)
+
+## dalao们 手下小弟的膝盖吧( ﾟдﾟ)つ
