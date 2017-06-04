@@ -17,4 +17,4 @@
 
 ☎[Telegram](https://t.me/EMLVIRUS)✉[Outlook](mailto:EMLVIRUS@outlook.com)
 
-## dalao 们 手下小弟的膝盖吧 ( ﾟдﾟ)つ
+## dalao 们 收下小弟的膝盖吧（顺带下毒，再加点春药）( ﾟдﾟ)つ
