@@ -18,6 +18,10 @@
 
 ## 啊♂基情在燃烧🔥
 
-☎[Telegram](https://t.me/EMLVIRUS)✉[Outlook](mailto:EMLVIRUS@outlook.com)
+☎[Telegram](https://t.me/EMLVIRUS)  
+✉[Outlook](mailto:EMLVIRUS@outlook.com)  
+🔨[GitHub](https://github.com/EMLVIRUS)
 
 ## dalao 们 收下小弟的膝盖吧（顺带下毒 再加点春药）
+
+[Time Machine](https://blog.venmos.com/)
