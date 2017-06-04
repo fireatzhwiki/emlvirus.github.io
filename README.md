@@ -7,8 +7,10 @@
 
 ## 哪家的调皮孩子😜居然看这些
 
-* [Amazing Apps](amazingapps.org)
+* [Amazing Apps](http://amazingapps.org)
 
 ## 好孩子不会去看的内容
 
 * [个人知识库](/personalbase/homepage.md)
+
+## 啊♂基情在燃烧🔥
