@@ -103,6 +103,6 @@ If you `watch`a repo or `follow`a user, copy link from `Subscribe to your news f
 
 18 `star` 项目收藏，再次点击取消 stargerize this repo, click again to cancel
 
-19 `fork` 新建属于你的项目副本（与主项目  _**不自动同步**_ ） `fork` this repo (will **NOT **sync with the original repo)
+19 `fork` 新建属于你的项目副本（与主项目  _**不自动同步**_ ） `fork` this repo (will **NOT** sync with the original repo)
 
 ###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
