@@ -44,9 +44,9 @@ Click `Leave a comment` to type (and you are allowed to paste image from system 
 
 15 点击 `selecting them` 选择文件插入，或从文件浏览器中拖入到输入框
 
-⑯（你的项目repository中每个issue或pull request可见，他人项目中仅在由你创建的pull request或issue可见）点击即可关闭
+16 （你的项目 repository 中每个 issue 或 pull request 可见，他人项目中仅在由你创建的 pull request 或 issue 可见）点击即可关闭
 
-⑰发送评论
+17 发送评论（或键盘快捷键 `Ctrl+Enter`）
 
 ---
 
