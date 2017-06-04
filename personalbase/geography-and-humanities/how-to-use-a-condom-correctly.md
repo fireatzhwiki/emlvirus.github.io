@@ -26,4 +26,4 @@ NOTE: you can **NEVER** expect a 100-percent way to contraception by now.
 Plus, I strongly recommend a condom (male or female) raher than contraceptives as the latter can be a real damage to female reproduction system.
 
 
-###### [啊啦 乃手滑了](..\homepage.html)
+###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
