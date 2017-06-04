@@ -27,4 +27,4 @@ Click sign up to continue.
 ![](..\images/step3.png)
 此步骤类似与一个调查问卷，可以改善GitHub使用体验，也可不填，点击 `Submit` 提交填写；若不填，点击 `skip this step` 即可完成
 
-###### [啊啦 乃手滑了](..\index.html)
+###### [啊啦 乃手滑了](..\index.html#table-of-contents)
