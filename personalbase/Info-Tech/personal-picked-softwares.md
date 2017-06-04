@@ -55,4 +55,4 @@ This is a collection of all softwares I'm using. They're listed here alphabetica
 * WinaeroTweaker
 * Xnview
 
-###### [啊啦 乃手滑了](..\homepage.html)
+###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
