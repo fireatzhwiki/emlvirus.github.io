@@ -9,7 +9,7 @@
 
 * [个人知识库](/personalbase/homepage.md)
 * [雨滴教程](/rainmeter/index.md)
-* [GitHub Beginners](/GitHub Begginners/index.md)
+* [GitHub Beginners](/GitHub-Begginners/index.md)
 
 ## 哪家的调皮孩子😜居然看这些
 
