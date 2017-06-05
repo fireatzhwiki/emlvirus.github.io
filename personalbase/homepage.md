@@ -1,16 +1,16 @@
 ## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
-This collect my personal knowledge.
+This collects my personal knowledge.
 
 ## FAQs
 
-#### Why is here?
+#### Why here?
 
-The first reason is to relieve my brain from memorizing many things. Then, maybe, epectation to correction?o\(\*^▽^\*\)┛
+The first reason is to relieve my brain from memorizing many things. Then, maybe, expectation to be corrected?o\(\*^▽^\*\)┛
 
 #### What's in this base?
 
-There is knowledge I known in all fields, aka bascially a memorandum.
+Here is knowledge I learnt in all fields, aka a memorandum.
 
 ## Table of Contents
 
