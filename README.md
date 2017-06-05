@@ -5,7 +5,7 @@
 * 这些辣鸡内容带有剧毒☠，阅读过多可能导致当事人不省人事，或是从此改行直播女装
 * 如果要开🍴，请务必遵循 Markdown 科学语法，否则会导致某些科学无法解释的现象
 
-## 萌萌哒 =￣ω￣=
+## =￣ω￣= 萌萌哒
 
 ![](https://img.shields.io/badge/%E6%AC%A1%E5%85%83-x%3E2%20%E2%88%A9%20x%3C3-red.svg?style=plastic) ![](https://img.shields.io/badge/Zodiac-%20%20%E2%99%93%20%20(%E2%9D%A4%20%CF%89%20%E2%9D%A4)%20-yellow.svg?style=plastic) ![](https://img.shields.io/badge/%20%E2%9D%A4%20-%20%3F%3F%3F%3F%20-red.svg?style=plastic) ![](https://img.shields.io/badge/source%20code-Markdown-f46eb1.svg?style=plastic) ![](https://img.shields.io/badge/host%20service-GitHub%20Pages-61fd60.svg?style=plastic)
 
@@ -16,7 +16,7 @@
 ### 为了您和您的的人身和财 shi 产 li 安全，请不要尝试找本人的丑照  
     你问我究竟是谁？这个问题很有哲♂学深度，可惜我不是哲♂学家  
 
-## 好孩子不会去看的内容 (/ω＼)
+## (/ω＼) 好孩子不会去看的内容
 
 * [个人知识库](/personalbase/homepage.md)
 * [雨滴教程](/rainmeter/index.md)
@@ -27,7 +27,7 @@
 
 * [Amazing Apps](http://amazingapps.org)
 
-## 啊♂基情在燃烧🔥
+## G 啊♂基情在燃烧🔥
 
 ☎[Telegram](https://t.me/EMLVIRUS)  
 ✉[Outlook](mailto:EMLVIRUS@outlook.com)  
