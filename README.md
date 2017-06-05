@@ -8,8 +8,11 @@
 ## 萌萌哒 =￣ω￣=
 
 ![](https://img.shields.io/badge/%E6%AC%A1%E5%85%83-x%3E2%20%E2%88%A9%20x%3C3-red.svg?style=plastic) ![](https://img.shields.io/badge/Zodiac-%20%20%E2%99%93%20%20(%E2%9D%A4%20%CF%89%20%E2%9D%A4)%20-yellow.svg?style=plastic) ![](https://img.shields.io/badge/%20%E2%9D%A4%20-%20%3F%3F%3F%3F%20-red.svg?style=plastic) ![](https://img.shields.io/badge/source%20code-Markdown-f46eb1.svg?style=plastic) ![](https://img.shields.io/badge/host%20service-GitHub%20Pages-61fd60.svg?style=plastic)
+
 * 你可以崇拜我，但是如果要是爱上了我，我还能怎么办咧 ╮(╯▽╰)╭
+
     ###### 伪技术真宅的人身不需要解释，就算需要，你也看不到啦 (￣、￣) 
+
 ### 为了您和您的的人身和财 shi 产 li 安全，请不要尝试找本人的丑照  
     你问我究竟是谁？这个问题很有哲♂学深度，可惜我不是哲♂学家  
 
