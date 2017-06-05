@@ -10,7 +10,7 @@ The first reason is to relieve my brain from memorizing many things. Then, maybe
 
 #### What's in this base?
 
-Here is knowledge I learnt in all fields, aka a memorandum.
+Here is knowledge I've learned in all fields, aka a memorandum.
 
 ## Table of Contents
 
