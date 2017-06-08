@@ -27,4 +27,8 @@ Here is a qucik guide about what kinds of info you need to provide.
 * Actual Result: current behavior of the program.
 * 实际的行为：软件当前的表现
 
+---
+
+   此外，如果软件本身存在相关文档或指引，并且内容与此处冲突，那么请务必遵循软件开发者给出的相关文档或指引
+
 ###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
