@@ -12,7 +12,7 @@ Content blockers include but are not limited to the concept of ad blockers:
 
 | | Content Blockers | Ad Blockers |
 |:----------:|:-----------:|:-----------:|
-| Package Types | Browser addons | Extensions or external executable |
+| Package Types | Browser addons | Extensions or external executables |
 | Contents Affected | Any Web content theoretically | Ads **ONLY** |
 | Site Data Types Affected | Any sites types theoretically, including cookies | Ads scripts **ONLY** |
 | Privacy Protection | Can be very helpful, depending on preferences | Minor mostly |
