@@ -16,9 +16,9 @@ Content blockers include but are not limited to the concept of ad blockers:
 | Contents Affected | Any Web content theoretically | Ads **ONLY** |
 | Site Data Types Affected | Any sites types theoretically, including cookies | Ads scripts **ONLY** |
 | Privacy Protection | Can be very helpful, depending on preferences | Minor mostly |
-| Sites Usability | Can be broken, depending on preferences | Complete mostly |
+| Sites Usability | Can be severely broken, depending on preferences | Complete mostly |
 | Web Ecology | No effect in some cases | Severe damage |
-| Data Saved | Can be obvious, depending on preferences | Depending on target sites |
+| Data Saved | Can be very obvious, depending on preferences | Depending on target sites |
 
 ---
 
