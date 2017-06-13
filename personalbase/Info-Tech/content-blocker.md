@@ -8,7 +8,7 @@ You may be really cheerful to the invention of content blocker as you enjoy it s
 
 ## Concepts
 
-Content blockers include but are not limited to the concept of ad blockers:
+Content blockers include but are not limited to the concept of ad blockers. Here is a table about differences between them:
 
 | | Content Blockers | Ad Blockers |
 |:----------:|:-----------:|:-----------:|
@@ -18,7 +18,8 @@ Content blockers include but are not limited to the concept of ad blockers:
 | Privacy Protection | Can be very helpful, depending on preferences | Minor mostly |
 | Sites Usability | Can be severely broken, depending on preferences | Complete mostly |
 | Web Ecology | No effect in some cases | Severe damage |
-| Data Saved | Can be very obvious, depending on preferences | Depending on target sites |
+| Data Saved | Can be very obvious, depending on preferences | Depending on target sites |  
+| Examples | [Umatrix](https://github.com/gorhill/uMatrix), [AntiAdware](https://github.com/HandyUserscripts/AntiAdware) | [Adblock Plus](https://adblockplus.org/)
 
 ---
 
