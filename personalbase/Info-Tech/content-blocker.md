@@ -19,7 +19,7 @@ Content blockers include but are not limited to the concept of ad blockers. Here
 | Sites Usability | Can be severely broken, depending on preferences | Complete mostly |
 | Web Ecology | No effect in some cases | Severe damage |
 | Data Saved | Can be very obvious, depending on preferences | Depending on target sites |  
-| Examples | [Umatrix](https://github.com/gorhill/uMatrix), [AntiAdware](https://github.com/HandyUserscripts/AntiAdware) | [Adblock Plus](https://adblockplus.org/)
+| Examples | [Umatrix](https://github.com/gorhill/uMatrix), [AntiAdware](https://github.com/HandyUserscripts/AntiAdware) | [Ads Cleaner](https://addons.mozilla.org/en-US/firefox/addon/ads-cleaner)
 
 ---
 
