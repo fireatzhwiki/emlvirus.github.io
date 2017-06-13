@@ -24,10 +24,10 @@ Content blockers include but are not limited to the concept of ad blockers:
 
 ## Effects
 
-On the balance fo benefit, we clearly see that content blockers head to users completely. You may feel this alright but just imagine such an occasion:
+On the balance to benefit, we clearly see that content blockers head to users completely. You may feel this alright but just imagine such an occasion:
 
 All goods on the market keep price reduction without any sign of stopping, you may feel happy at the very beginning. As time keeps going, all manufacturers and factories are forced to shut down by lack of in-coming. Now no one can buy things whatever s/he wants.
 
-Same things are now happening between contents blockers and web ecology.
+Same things are now happening between content blockers and web ecology.
 
 ###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
