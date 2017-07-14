@@ -19,7 +19,7 @@ Here is knowledge I've learned in all fields, aka a memorandum.
 * [Why is a diamond costly?](/geography-and-humanities/why-is-a-diamond-costly.md)
 * [How to Use A Condom Correctly?](/geography-and-humanities/how-to-use-a-condom-correctly.md)
 * [How To Judge If You Have Impotence](/geography-and-humanities/how-to-judge-if-you-have-impotence.md)
-* [Common Misunderstanding to Sound Quality](/geography-and-humanities/sound quality.md)
+* [Common Misunderstanding to Sound Quality](/geography-and-humanities/sound-quality.md)
 
 #### Info-Tech
 
