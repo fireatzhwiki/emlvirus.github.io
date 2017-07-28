@@ -2,7 +2,7 @@
 
 在阅读以下内容之前务必注意 (*￣(￣　*)!
 
-* 本站点代码根据辣鸡 MPL v2.0 协议公开，这些辣鸡代码内容带有剧毒☠，阅读过多可能导致当事人不省人事，或是从此改行直播女装
+* 本站点辣鸡代码内容带有剧毒☠，阅读过多可能导致当事人不省人事，或是从此改行直播女装
 * 如果要开🍴，请务必遵循 Markdown 语法，否则会导致某些科学无法解释的现象，比如硬盘中某个深目录下全部 AVI 后缀的文件都消失了
 * 本站点内容仅供参考，未成年的坏孩子请在科学世界观的指导下阅读
 
@@ -44,3 +44,6 @@
 
 [Time Machine](https://blog.venmos.com/)  
 [零散坑](https://03k.org)
+
+### LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this Org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
