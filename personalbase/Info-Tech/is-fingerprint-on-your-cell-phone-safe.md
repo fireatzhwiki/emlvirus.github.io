@@ -1,4 +1,4 @@
-﻿## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
+## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
 ## Is Fingerprint On Your Cellphone Safe?
 
