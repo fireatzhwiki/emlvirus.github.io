@@ -12,7 +12,7 @@ Static text passwords have been know as liablity to online security. Currently, 
 
 You passwords strengh is measured by entropy bits (equivalent size of a random symmetric key, or, in human words, how random the password characters are) of the passwords text.   
     
-    Do note that it is different from the concept of password lengh.  
+    Do note that it is different from the concept of password length.  
 
 The bit count can roughly be translated as follows:
 
@@ -28,7 +28,7 @@ The bit count can roughly be translated as follows:
 
 By the premise of non-existence of `definite security`, yes.
 
-All mainstream password managers use AES standard to encrypt your entries. There is now no yet mathematical solution to AES and also unlikey to have any in predictable future only if your private key is not leaked.
+All mainstream password managers use AES standard to encrypt your entries. There is now no yet mathematical solution to AES and also unlikely to have any in predictable future as long as your private key is not leaked.
 
 ## Which password manager should I choose?
 
@@ -36,10 +36,10 @@ Here is a table about all mainstream password managers with features comparison 
 
 |  | LastPass | Enpass | 1Password | Keepass | BitWarden | Dashlane | Keeper | RoboForm |
 |:----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Lowest Pricing For Free | ✔ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
+| Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
 | Open Source | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
-| Free Cloud Sync | ✔ | ❌ | ❌ | ✔ (Third-Party Service) | ✔ | ❌ | ❌ | ❌ |
-| Full-platform Support | ❌ (None for Linux/not free for desktop) | ✔ | ✔ | ✔ (Non-official except Windows) | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
+| Free Cloud Sync | ✔ | ✔ | ❌ | ✔ (Third-Party Service) | ✔ | ❌ | ❌ | ❌ |
+| Full-platform Support | ✔ | ✔ | ✔ | ✔ (Non-official except Windows) | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
 | 2FA | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Import From Competitors/Export | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fill Web Forms | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -53,7 +53,10 @@ Here is a table about all mainstream password managers with features comparison 
 
 #### LastPass
 
-It has
+It has most features you can imagine as a password manager though a Windows client on desktop requires you to pay. This means you need $1 per month billed annually if you are to fill application passwords with LastPass. Secure sharing requires to pay as well.  
+But it indeed deserves considering if you use a passowrd manager for yourself only and have few application passwords to fill out.
+
+#### Enpass
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
