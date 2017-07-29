@@ -1,4 +1,4 @@
-## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
+﻿## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
 <h2 align="center">Rainmeter 教程基础版</h2>
 
@@ -243,3 +243,7 @@ Yahoo weather
 由于中国天气网weather.com.cn已关闭数据接口 因此遇到此网站天气皮肤请直接删除
 
 另外请将其与weather.com（仍然正常）相区别
+
+
+### LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.

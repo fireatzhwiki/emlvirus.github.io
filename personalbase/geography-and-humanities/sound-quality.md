@@ -1,4 +1,4 @@
-## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
+﻿## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
 ## Q1：影响音质的因素
 
@@ -36,5 +36,8 @@
 如果你将一个码率为 192kbps 的 MP3 文件转格式为 WAV，然后跟码率为 320kbps 的 MP3 比较会得出什么结论？结论基本如下：
 
 * 有损格式确实会导致音质的损失（小杯子装得水当然少），但是无损格式不一定内容是无损的（大杯子装的水未必比小杯子多）
+
+### LICENSE
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
 
 ###### [啊啦 乃手滑了](..\homepage.html#table-of-contents)
