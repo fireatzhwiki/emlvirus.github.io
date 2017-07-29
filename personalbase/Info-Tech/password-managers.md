@@ -45,9 +45,15 @@ Here is a table about all mainstream password managers with features comparison 
 | Fill Web Forms | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fill Application Passwords | ✔ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ |
 | Password Strength Report | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Secure Sharing | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
+| Secure Sharing | ✔ | ✔ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ |
 | Anti Keyboard Logger | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ |
 | Yubikey Support | ✔ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
+
+### Additional Details
+
+#### LastPass
+
+It has
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
