@@ -1,4 +1,4 @@
-﻿## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
+## [萨满喵喵 ヽ(￣ω￣(￣ω￣〃)](https://emlvirus.github.io/)
 
 <h2 align="center">Rainmeter 教程基础版</h2>
 
