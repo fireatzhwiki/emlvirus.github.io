@@ -36,14 +36,14 @@ Here is a table about all mainstream password managers with features comparison 
 
 |  | LastPass | Enpass | 1Password | KeePass | BitWarden | Dashlane | Keeper | RoboForm |
 |:----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
+| Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ❌ | ✔ |
 | Open Source | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
 | Free Cloud Sync | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
-| Full-platform Support | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
+| Full-platform Support | ✔ | ✔ | ❌ | ✔ | ❌ | ❌ | ✔ | ❌ |
 | 2FA | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Import From Competitors/Export | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fill Web Forms | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Fill Application Passwords | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ |
+| Fill Application Passwords | ✔ | ❌ | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ |
 | Password Strength Report | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Secure Sharing | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ |
 | Anti Keyboard Logger | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ |
@@ -75,6 +75,16 @@ It can perform sync through third-party service with a plugin. By the benenfits 
 ## [BitWarden](https://bitwarden.com/)
 
 As another open-source password manager, it has built-in free cloud sync and 2FA. Tough there is no desktop client yet, but there are enough features for light users.
+
+## [Dashlane](https://www.dashlane.com)
+
+Despite of cloud sync service requiring to pay, it is free to install any number of clients though there is no Linux support.
+
+## [Keeper](https://keepersecurity.com)
+
+Another password manager without free service, it has basically everything for startes with its beginning pricing ($29.99 per year), unlimited password storage, unlimited devices + sync, unlimited secure cloud backup, unlimited secure record sharing, web app, etc.
+
+## [RoboForm](https://www.roboform.com/)
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
