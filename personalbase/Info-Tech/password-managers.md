@@ -51,12 +51,16 @@ Here is a table about all mainstream password managers with features comparison 
 
 ### Additional Details
 
-#### LastPass
+## LastPass
 
 It has most features you can imagine as a password manager though a Windows client on desktop requires you to pay. This means you need $1 per month billed annually if you are to fill application passwords with LastPass. Secure sharing requires to pay as well.  
 But it indeed deserves considering if you use a passowrd manager for yourself only and have few application passwords to fill out.
 
-#### Enpass
+## Enpass
+
+It is also a feature-riched passoword manager. All of its desktop clients are all free with free cloud sync through third-party service, like iCloud, Dropbox, OwnCloud, GoogleDrive, OneDrive & Box. The only thing is that all its moble clients charge $9.99 per license per device.
+
+## 1Password
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
