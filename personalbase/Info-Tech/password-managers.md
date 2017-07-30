@@ -2,7 +2,7 @@
 
 ## What are password managers?
 
-[Password managers](https://en.wikipedia.org/wiki/Password_manager "See more on Wikipedia") are softwares that generate secure passwords, and/or help you to keep them, retrieving, etc. Without even a slight of exaggeration, a password manager is the basis of online security.
+[Password managers](https://en.wikipedia.org/wiki/Password_manager "See more on Wikipedia") are softwares that generate secure passwords, and/or help you to keep them, retrieve them whenever necessary, etc. Without even a slight of exaggeration, a password manager is the basis of online security.
 
 ## Why do we need one of them?
 
@@ -92,7 +92,7 @@ Service planning really similar with that of [Dashlane](https://emlvirus.github.
 
 Here are some tips to help you to use passwords safer:
 
-* Try to generate as longer & stronger passwords with your password manager isntead of using the same one everywhere.
+* Try to generate as stronger passwords as a website has allowed with your password manager istead of using the same one everywhere.
 * Do **NEVER** share your master passoword.
 * Change passwords for your website account in certain peroid.
 * Enable 2FA if ever provided everywhere. Yubikey is a good choice as you can destroy it when you encounter personal threat.
