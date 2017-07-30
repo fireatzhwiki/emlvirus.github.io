@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+    position: absolute;
+}
+
+#banner {
+    right: 0;
+    margin-right: 0px;
+    position: absolute;
+}
+
+#banner .fork {
+    position: absolute;
+}
+
+section {
+    width: 125%;
+}
+
+.wrapper {
+    width: 630px;
+}
