@@ -34,7 +34,7 @@ All mainstream password managers use AES standard to encrypt your entries. There
 
 Here is a table about all mainstream password managers with features comparison among them:
 
-|  | LastPass | Enpass | 1Password | Keepass | BitWarden | Dashlane | Keeper | RoboForm |
+|  | LastPass | Enpass | 1Password | KeePass | BitWarden | Dashlane | Keeper | RoboForm |
 |:----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
 | Open Source | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
@@ -62,7 +62,9 @@ It is also a feature-riched passoword manager. All of its desktop clients are al
 
 ## 1Password
 
-As a password manager without free service (at least $2.99 per month billed annually),
+As a password manager without free service (at least $2.99 per month billed annually), it has a bunch of helpful features, such as Travel Mode (remove sensitive data from your devices when you travel, and restore access with a click when you arrive).
+
+## [KeePass](http://keepass.info/)
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
