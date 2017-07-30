@@ -39,13 +39,13 @@ Here is a table about all mainstream password managers with features comparison 
 | Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
 | Open Source | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
 | Free Cloud Sync | ✔ | ✔ | ❌ | ✔ (Third-Party Service) | ✔ | ❌ | ❌ | ❌ |
-| Full-platform Support | ✔ | ✔ | ✔ | ✔ (Non-official except Windows) | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
+| Full-platform Support | ✔ | ✔ | ❌ | ✔ (Non-official except Windows) | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
 | 2FA | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Import From Competitors/Export | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fill Web Forms | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Fill Application Passwords | ✔ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ✔ |
+| Fill Application Passwords | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ | ✔ |
 | Password Strength Report | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
-| Secure Sharing | ✔ | ✔ | ❌ | ❌ | ✔ | ✔ | ✔ | ✔ |
+| Secure Sharing | ✔ | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ |
 | Anti Keyboard Logger | ❌ | ❌ | ❌ | ✔ | ❌ | ❌ | ❌ | ❌ |
 | Yubikey Support | ✔ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
 
@@ -61,6 +61,8 @@ But it indeed deserves considering if you use a passowrd manager for yourself on
 It is also a feature-riched passoword manager. All of its desktop clients are all free with free cloud sync through third-party service, like iCloud, Dropbox, OwnCloud, GoogleDrive, OneDrive & Box. The only thing is that all its moble clients charge $9.99 per license per device.
 
 ## 1Password
+
+As a password manager without free service (at least $2.99 per month billed annually),
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
