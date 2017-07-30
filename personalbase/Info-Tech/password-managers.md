@@ -38,8 +38,8 @@ Here is a table about all mainstream password managers with features comparison 
 |:----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|
 | Lowest Pricing For Free | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ✔ |
 | Open Source | ❌ | ❌ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
-| Free Cloud Sync | ✔ | ✔ | ❌ | ✔ (Third-Party Service) | ✔ | ❌ | ❌ | ❌ |
-| Full-platform Support | ✔ | ✔ | ❌ | ✔ (Non-official except Windows) | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
+| Free Cloud Sync | ✔ | ✔ | ❌ | ✔ | ✔ | ❌ | ❌ | ❌ |
+| Full-platform Support | ✔ | ✔ | ❌ | ✔ | ❌ (None for desktop) | ❌ (None for Linux) | ✔ | ❌ (None for Linux) |
 | 2FA | ✔ | ✔ | ❌ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Import From Competitors/Export | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 | Fill Web Forms | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -51,20 +51,26 @@ Here is a table about all mainstream password managers with features comparison 
 
 ### Additional Details
 
-## LastPass
+## [LastPass](https://www.lastpass.com/)
 
 It has most features you can imagine as a password manager though a Windows client on desktop requires you to pay. This means you need $1 per month billed annually if you are to fill application passwords with LastPass. Secure sharing requires to pay as well.  
+
 But it indeed deserves considering if you use a passowrd manager for yourself only and have few application passwords to fill out.
 
-## Enpass
+## [Enpass](https://www.enpass.io/)
 
 It is also a feature-riched passoword manager. All of its desktop clients are all free with free cloud sync through third-party service, like iCloud, Dropbox, OwnCloud, GoogleDrive, OneDrive & Box. The only thing is that all its moble clients charge $9.99 per license per device.
 
-## 1Password
+## [1Password](https://1password.com/)
 
 As a password manager without free service (at least $2.99 per month billed annually), it has a bunch of helpful features, such as Travel Mode (remove sensitive data from your devices when you travel, and restore access with a click when you arrive).
 
 ## [KeePass](http://keepass.info/)
+
+As the most feature-riched passoword manager, it has everything you need with a bunch of unique features though some of them requires really simple but additional setting-up with plugins:  
+Generate secure key file or use yubikey to unlock database instead of static text password, a straightforward password quality report & similar passwords finding, passwords strengh measured by entropy bits right while generating, Anti keyboard logger from [Two-Channel Auto-Type Obfuscation](http://keepass.info/help/v2/autotype_obfuscation.html), etc.  
+
+It can perform sync through third-party service with plugin. By the benenfits of open source, though it has Windows desktop client officially, it has many third-party contributed client for all other platforms, including browser extensions.
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
