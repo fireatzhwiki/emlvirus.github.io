@@ -12,7 +12,7 @@ Static text passwords have been know as liablity to online security. Currently, 
 
 You passwords strengh is measured by entropy bits (equivalent size of a random symmetric key, or, in human words, how random the password characters are) of the passwords text.   
     
-    Do note that it is different from the concept of password length.  
+    Do note that it is different from the concept of password length. Length is indeed a factor of password strengh but not decisive.
 
 The bit count can roughly be translated as follows:
 
@@ -89,6 +89,13 @@ Another password manager without free service, it has basically everything for s
 Service planning really similar with that of [Dashlane](https://emlvirus.github.io/personalbase/Info-Tech/password-managers.html#dashlane), more features starting from $19.95 per year.
 
 ## Bonus Tips
+
+Here are some tips to help you to use passwords safer:
+
+* Try to generate as longer & stronger passwords with your password manager isntead of using the same one everywhere.
+* Do **NEVER** share your master passoword.
+* Change passwords for your website account in certain peroid.
+* Enable 2FA if ever provided everywhere. Yubikey is a good choice as you can destroy it when you encounter personal threat.
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
