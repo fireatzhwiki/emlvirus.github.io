@@ -24,7 +24,7 @@ The bit count can roughly be translated as follows:
 | 112-128 | Strong |
 | ≥ 128 | Very strong |
 
-## Are my passwords `safe` with password managers?
+* Even strong enough, are my passwords `safe` with password managers?
 
 By the premise of non-existence of `definite security`, yes.
 
