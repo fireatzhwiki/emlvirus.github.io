@@ -78,13 +78,15 @@ As another open-source password manager, it has built-in free cloud sync and 2FA
 
 ## [Dashlane](https://www.dashlane.com)
 
-Despite of cloud sync service requiring to pay, it is free to install any number of clients though there is no Linux support.
+Despite of cloud sync service requiring to pay ($3.33 per month billed annually), it is free to install any number of clients though there is no Linux support.
 
 ## [Keeper](https://keepersecurity.com)
 
 Another password manager without free service, it has basically everything for startes with its beginning pricing ($29.99 per year), unlimited password storage, unlimited devices + sync, unlimited secure cloud backup, unlimited secure record sharing, web app, etc.
 
 ## [RoboForm](https://www.roboform.com/)
+
+Service planning really similar with that of dashlane, more features starting from $19.95 per year.
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this site is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
