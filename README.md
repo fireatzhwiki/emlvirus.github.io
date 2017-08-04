@@ -5,12 +5,11 @@
 * 本站点辣鸡代码根据 CC BY-NC-SA 4.0 发布，内容带有剧毒☠，阅读过多可能导致当事人不省人事，严重者从此改行直播女装
 * 如果要开🍴，请务必遵循 Markdown 语法，否则会导致某些科学无法解释的现象，比如硬盘中某个深目录下全部 AVI 后缀的视频文件都消失了
 * 本站点内容仅供参考，未成年的坏孩子请在科学世界观的指导下阅读
-* 本站不建议在手机端访问，理由请自行意会
 * 有意见[你就提](https://github.com/EMLVIRUS/emlvirus.github.io/issues)，我虚心接受，改不改再议
 
 ---
 
-## Qute 萌萌哒 =￣ω￣=
+## 萌萌哒 =￣ω￣=
 
 ![](https://img.shields.io/badge/%E6%AC%A1%E5%85%83-x%3E2%20%E2%88%A9%20x%3C3-red.svg?style=plastic) ![](https://img.shields.io/badge/Zodiac-%20%20%E2%99%93%20%20(%E2%9D%A4%20%CF%89%20%E2%9D%A4)%20-yellow.svg?style=plastic) ![](https://img.shields.io/badge/%20%E2%9D%A4%20-%20%3F%3F%20-red.svg?style=plastic) ![](https://img.shields.io/badge/source%20code-Markdown-f46eb1.svg?style=plastic) ![](https://img.shields.io/badge/host-GitHub%20Pages-61fd60.svg?style=plastic)
 
@@ -23,10 +22,10 @@
 
 ---
 
-## Ooops 好孩子不会去看的内容 (/ω＼)
+## 好孩子不会去看的内容 (/ω＼)
 
-* [个人知识库](/personalbase/homepage.md)
-* [雨滴教程](/rainmeter/index.md)
+* [Personal Knowledge Database](/personalbase/homepage.md)
+* [Rainmeter Tutorial](/rainmeter/index.md)
 * [GitHub Beginners](/GitHub-Beginners/index.md)
 * [Markdown](/markdown/index.md)
 
@@ -36,7 +35,7 @@
 
 ---
 
-## G 啊♂基情在燃烧🔥
+## A Holy New ♂ World🔥
 
 ☎[Telegram](https://t.me/EMLVIRUS)  
 ✉[Outlook](mailto:EMLVIRUS@outlook.com)  
